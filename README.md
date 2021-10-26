@@ -13,6 +13,7 @@
   <img align="center" alt="Gamaii-Ruby" height="40" width="90" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </div>
 <div> 
+  <h1>Contate-me ou me siga nas minhas outras redes sociais</h1>
   <a href = "mailto:gabriel.maires12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielmaires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br>
