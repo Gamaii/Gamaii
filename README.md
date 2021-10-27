@@ -18,6 +18,7 @@
   <a href="https://www.linkedin.com/in/gabrielmaires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br>
   <h1>Activity Snake Game :D</h1>
+  
    ![Snake animation](https://github.com/Gamaii/Gamaii/blob/output/github-contribution-grid-snake.svg)
   
 </div>
