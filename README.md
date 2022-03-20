@@ -7,10 +7,7 @@
 
 <div>
   <h1>Languages that I use and I'm Learning<h1>
-  <img align="center" alt="Gamaii-java" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Gamaii-CSS" height="40" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Gamaii-BTP" height="40" width="110" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Gamaii-JS" height="40" width="110" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Gamaii-python" height="40" width="90" src="https://img.shields.io/badge/-Python-blue">
 </div>
     
  <div>
