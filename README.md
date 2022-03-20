@@ -12,7 +12,6 @@
     
  <div>
 <h1>Languages that I'm interested<h1>
-<img align="center" alt="Gamaii-Ruby" height="40" width="90" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 <img align="center" alt="Gamaii-java" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
     
